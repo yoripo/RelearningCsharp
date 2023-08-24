@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relearning", "Relearning\Relearning.csproj", "{C30EDAB2-B45B-4881-A4BE-B4966492817B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30EDAB2-B45B-4881-A4BE-B4966492817B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30EDAB2-B45B-4881-A4BE-B4966492817B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30EDAB2-B45B-4881-A4BE-B4966492817B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30EDAB2-B45B-4881-A4BE-B4966492817B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F9733B-5405-4E34-B19E-673F1D79175D}
+	EndGlobalSection
+EndGlobal
